@@ -1,3 +1,7 @@
-# Yang-Jiaxiang
+# Personal Information
+I'm Louis :stuck_out_tongue_winking_eye: 
 
-QQ
+I major in international business at Ntunhs-Department of Information Management :computer: :tada:
+
+
+
