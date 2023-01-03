@@ -6,6 +6,12 @@
 <h3 align="center">A passionate frontend developer from TAIWAN 🇹🇼 <a href="https://instagram.com/yjx.0412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yjx.0412" height="30" width="40" /></a></h3>
 <h3 align="center">I major in international business at Ntunhs-Department of Information Management</h3>
 
+# Github stats
+
+![Yang-Jiaxiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=40)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=c,c%2B%2B,cmake)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Technologies & Tools
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -20,7 +26,4 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
    </p>
 
-# Github stats
 
-![Yang-Jiaxiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=c,c%2B%2B,cmake)](https://github.com/anuraghazra/github-readme-stats)
