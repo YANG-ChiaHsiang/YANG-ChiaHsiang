@@ -8,11 +8,6 @@
 
 # Github stats
 
-![Yang-Jiaxiang's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Jiaxiang)](https://github.com/anuraghazra/github-readme-stats)
-)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=c,c%2B%2B,cmake)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # Technologies & Tools
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
