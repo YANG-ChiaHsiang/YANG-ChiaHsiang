@@ -8,7 +8,8 @@
 
 # Github stats
 
-![Yang-Jiaxiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=40)
+![Yang-Jiaxiang's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Jiaxiang)](https://github.com/anuraghazra/github-readme-stats)
+)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=c,c%2B%2B,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 
