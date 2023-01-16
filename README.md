@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👋%20I'm%20Louis&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:98eb98&height=300&section=header&text=Hi%20👋%20I'm%20Louis&fontSize=90" />
 </h1>
 <h3 align="center">A passionate frontend developer from TAIWAN 🇹🇼 <a href="https://instagram.com/yjx.0412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yjx.0412" height="30" width="40" /></a></h3>
 <h3 align="center">I major in international business at Ntunhs-Department of Information Management</h3>
@@ -9,10 +9,10 @@
 # Github stats
 
 <a href="https://github.com/FanwangM/FanwangM">
-  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=000000&icon_color=bebf5e&bg_color=598559&langs_count=3" />
 </a>
 <a href="https://github.com/FanwangM/FanwangM">
-  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Fanwang's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=000000&icon_color=bebf5e&bg_color=598559" alt="Fanwang's GitHub Stats" />
 </a>
 
 # Technologies & Tools
