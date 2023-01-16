@@ -8,6 +8,13 @@
 
 # Github stats
 
+<a href="https://github.com/FanwangM/FanwangM">
+  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/FanwangM/FanwangM">
+  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Fanwang's GitHub Stats" />
+</a>
+
 # Technologies & Tools
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -21,5 +28,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
    </p>
+  
 
 
