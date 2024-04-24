@@ -3,8 +3,15 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:98eb98&height=300&section=header&text=Hi%20👋%20I'm%20Louis&fontSize=90" />
 </h1>
-<h3 align="center">A passionate frontend developer from TAIWAN 🇹🇼 <a href="https://instagram.com/yjx.0412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yjx.0412" height="30" width="40" /></a></h3>
-<h3 align="center">I major in international business at Ntunhs-Department of Information Management</h3>
+
+<h3 align="center"> I'm a graduate student at the Institute of Biomedical Informatics, National Yang Ming Chiao Tung University. </h3>
+
+
+# Areas of Expertise: 
+<ul>
+  <li>Web Development (Front-End & Back-End)</li>
+  <li>Deep Learning</li>
+</ul>  
 
 # Github stats
 
