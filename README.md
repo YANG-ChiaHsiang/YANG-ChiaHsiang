@@ -15,11 +15,11 @@
 
 # Github stats
 
-<a href="https://github.com/FanwangM/FanwangM">
-  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=000000&icon_color=bebf5e&bg_color=598559&langs_count=3" />
+<a href="https://github.com/Yang-Jiaxiang/Yang-Jiaxiang">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yang-Jiaxiang&hide=html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/FanwangM/FanwangM">
-  <img align="center" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=000000&icon_color=bebf5e&bg_color=598559" alt="Fanwang's GitHub Stats" />
+<a href="https://github.com/Yang-Jiaxiang/Yang-Jiaxiang">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yang-Jiaxiang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Fanwang's GitHub Stats" />
 </a>
 
 # Technologies & Tools
