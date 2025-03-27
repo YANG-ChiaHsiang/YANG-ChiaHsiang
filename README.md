@@ -11,6 +11,9 @@
 <ul>
   <li>Web Development (Front-End & Back-End)</li>
   <li>Deep Learning</li>
+  <li>Segmentation</li>
+  <li>Survival Analysis</li>
+  <li>LLM</li>
 </ul>  
 
 # Github stats
